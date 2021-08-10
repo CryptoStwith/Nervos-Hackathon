@@ -2,7 +2,7 @@
 
 ## Screenshots or video of your application running on Godwoken.
 
-
+![task7](task7.png)
 
 ## Link to the GitHub repository with your application which has been ported to Godwoken. This must be a different application than the one covered in this guide.
 
